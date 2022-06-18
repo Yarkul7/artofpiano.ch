@@ -1,0 +1,78 @@
+<wpml-config>
+    <admin-texts>
+        <key name="prk_pulse_options">
+            <key name="footer_text" />
+            <key name="footer_text_extra" />
+            <key name="theme_divider" />
+            <key name="search_tip_text" />
+            <key name="submit_search_res_title" />
+            <key name="submit_search_no_results" />
+            <key name="previous_text" />
+            <key name="next_text" />
+            <key name="required_text" />
+            <key name="profile_text" />
+            <key name="in_touch_text" />
+            <key name="404_title_text" />
+            <key name="404_body_text" />
+            <key name="read_more" />
+            <key name="sticky_text" />
+            <key name="min_read_text" />
+            <key name="posted_by_text" />
+            <key name="on_text" />
+            <key name="about_author_text" />
+            <key name="older" />
+            <key name="newer" />
+            <key name="older_single" />
+            <key name="newer_single" />
+            <key name="all_the_posts" />
+            <key name="prj_desc_text" />
+            <key name="date_text" />
+            <key name="client_text" />
+            <key name="skills_text" />
+            <key name="tags_text" />
+            <key name="project_text" />
+            <key name="launch_text" />
+            <key name="all_text" />
+            <key name="load_more" />
+            <key name="related_prj_text" />
+            <key name="related_prj_teaser_text" />
+            <key name="prj_prev_text" />
+            <key name="prj_next_text" />
+            <key name="all_the_portfolios" />
+            <key name="comments_label" />
+            <key name="comments_no_response" />
+            <key name="comments_one_response" />
+            <key name="comments_oneplus_response" />
+            <key name="reply_text" />
+            <key name="comments_leave_reply" />
+            <key name="comments_under_reply" />
+            <key name="comments_author_text" />
+            <key name="comments_email_text" />
+            <key name="comments_url_text" />
+            <key name="comments_comment_text" />
+            <key name="comments_submit" />
+            <key name="empty_text_error" />
+            <key name="invalid_email_error" />
+            <key name="comment_ok_message" />
+            <key name="contact_subject_text" />
+            <key name="contact_message_text" />
+            <key name="contact_submit" />
+            <key name="contact_error_text" />
+            <key name="contact_error_email_text" />
+            <key name="contact_wait_text" />
+            <key name="contact_ok_text" />
+            <key name="woo_subheading" />
+        </key>
+    </admin-texts>
+    <custom-types>
+        <custom-type translate="1">pirenko_slides</custom-type>
+        <custom-type translate="1">pirenko_portfolios</custom-type>
+        <custom-type translate="1">pirenko_testimonials</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">pirenko_slide_set</taxonomy>
+        <taxonomy translate="1">pirenko_skills</taxonomy>
+        <taxonomy translate="1">portfolio_tag</taxonomy>
+        <taxonomy translate="1">pirenko_testimonial_set</taxonomy>
+    </taxonomies>  
+</wpml-config>
